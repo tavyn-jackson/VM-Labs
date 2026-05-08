@@ -17,7 +17,13 @@ This lab was created to simulate a real-world enterprise envionment using Window
 
 <h2>Promote server to Domain Controller:</h2>
 <br />
-- <b>Login to Virtual Machine</b>
+- <b>Open VM software</b>
+<br />
+- <b>Start up VM</b>
+<br />
+- <b>After VM boots, login to VM OS with username and password</b>
+<br />
+- <b>Windows Server Manager will automatically start after login</b>
 <br />
 - <b>Within Server Manager, select the flag with the alert notification</b>
 <br />
@@ -29,18 +35,20 @@ This lab was created to simulate a real-world enterprise envionment using Window
 <br />
 - <b>Domain Controller Wizard Window will open</b>
 <br />
+- <b>Add needed roles and features </b>
+<br />
 <br />
 <p align="center">
-- <b>Select options and set password for adminstrator account</b>
+- <b>Select forest options and set password for adminstrator account</b>
 <img src="DCOptions.PNG" height="80%" width="80%" alt="DC Wizard Window"/>
 </p>
-
+- <b>Confirm remaining settings and click Install </b>
 <br />
-- <b>VM will require a reboot in order to save configurations</b>
+- <b>After domain controller setup is finished, VM will require a restart to promote computer to Domain Controller</b>
 <br />
 <br />
 <p align="center">
-- <b>After reboot, login using Administrator username and password created during the Domain Controller Wizard</b>
+- <b>After reboot, login using Administrator username and password created during the Domain Controller Wizard setup </b>
 <img src="DCLogin.PNG" height="80%" width="80%" alt="DC Login"/>
 </p>
 <br />
@@ -51,7 +59,7 @@ This lab was created to simulate a real-world enterprise envionment using Window
 <br />
 <br />
 <p align="center">
-- <b>Select "Add Roles and Features", wizard window will prompt</b>
+- <b>Select "Add Roles and Features", roles and features selection window will prompt</b>
   <img src="AddRoles.PNG" height="80%" width="80%" alt="Add Roles"/>
 </p>
 <br />
@@ -62,6 +70,11 @@ This lab was created to simulate a real-world enterprise envionment using Window
 - <b>Finish Install, will require a reboot</b>
 <img src="InstallRoles.PNG" height="80%" width="80%" alt="Install Roles"/>
 </p>
+<br />
+- <b>Will have to login back in using administrator information</b>
+<br />
+- <b>Server Manager will open, select Tools, Active Directory will now be listed as an option</b>
+<br />
 
 
 
