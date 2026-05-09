@@ -31,6 +31,7 @@ This lab demonstrates the process of promoting a Windows Server virtual machine 
     - 2 core CPU minimum 
 - **Create virtual hard disk**
     - 60 GB+ 
+<br />
 
 <h2>Lab Task 2:</h2>
 <h3>Install Windows Server</h3>
