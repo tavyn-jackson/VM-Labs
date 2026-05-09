@@ -3,6 +3,7 @@
 <h2>Overview:</h2> 
 This lab demonstrates the process of promoting a Windows Server virtual machine to a Domain Controller using Active Directory Domain Services (AD DS). The environment is built and tested inside VirtualBox to simulate a real enterprise Active Directory setup.
 <br />
+
 <h2>Objective</h2>
 - **Promote Windows Server VM to Domain Controller**
 - **Create a new Active Directory forest and domain**
@@ -10,6 +11,7 @@ This lab demonstrates the process of promoting a Windows Server virtual machine 
 - **Configure DNS integration for domain services**
 - **Verify successful domain controller deployment**
 <br /> 
+
 <h2>Environment:</h2>
 - **Virtualization: VirtualBox**
 - **Windows Server 2022**
@@ -31,6 +33,7 @@ This lab demonstrates the process of promoting a Windows Server virtual machine 
     - Size: 60 GB+ (dynamic allocation)
 
 # insert screenshot of vm creation in virtualbox 
+<br />
 
 <h2>Lab Task 2:</h2>
 <h3>Install Windows Server</h3>
@@ -41,6 +44,8 @@ This lab demonstrates the process of promoting a Windows Server virtual machine 
 - **Complete installation and login as Administrator**
 
 # insert screenshot of os install 
+<br />
+
 
 <h2>Lab Task 3:</h2>
 <h3>Static IP Configuration </h3>
@@ -52,6 +57,8 @@ Inside Windows Server:
     - Subnet: 255.255.255.0
     - Gateway: optional
     - DNS: point to itself (same as the IP)
+
+</h2>
 
 <h2>Lab Task 4:</h2>
 <h3>Rename the Server</h3>
