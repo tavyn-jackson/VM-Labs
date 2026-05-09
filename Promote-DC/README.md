@@ -93,8 +93,7 @@ After installation:
 
 VM will reboot automatically 
 
-<h2>Lab Task 7:</h2>
-<h3>Verify Domain Controller Setup</h3>
+<h2>Verify Domain Controller Setup</h2>
 After reboot: 
 - **Log in using domain**
     - CORP\Administrator:
