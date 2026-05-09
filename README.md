@@ -17,6 +17,7 @@ Project 1: Promote Server to Domain Controller
 - Create new Active Directory domain
 - Configure DNS integration
 - Verify domain controller functionality
+
 (./Promote-DC/README.md)
 
 
