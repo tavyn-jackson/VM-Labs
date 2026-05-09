@@ -1,7 +1,9 @@
 <h2>Prereqs:</h2>
 <br />
+
 - **Open Server Manager**
-<br /> 
+
+
 <h2>Install Active Directory Domain Services (AD DS)</h2>
 <br />
 
@@ -13,4 +15,4 @@
 - **Select:**
     - **Active Directory Domain Services**
 - **Install and complete wizard**
-</p>
+
