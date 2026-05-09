@@ -15,6 +15,7 @@ This lab demonstrates the process of promoting a Windows Server virtual machine 
 
 <h2>Environment:</h2>
 <br />
+
 - **Virtualization: VirtualBox**
 - **Windows Server 2022**
 - **Role Services: Active Directory Domain Services, DNS**
