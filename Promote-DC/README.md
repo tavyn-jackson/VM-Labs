@@ -16,21 +16,7 @@ This lab demonstrates the process of promoting a Windows Server virtual machine 
 
 - **Virtualization: VirtualBox**
 - **Windows Server 2022**
-- **Role Services: Active Directory Domain Services, DNS**
-
-<h2>Lab Task 1:</h2>
-<h3>VM Setup in Windows</h3>
-- **Open VirtualBox**
-- **Click New**
-- **Set:**
-    - Name: Windows Server 
-    - Type: Microsoft Windows Server
-    - Version: Windows 2022 
-- **Allocate:**
-    - RAM: 4–8 GB 
-    - CPU: 2 cores minimum
-- **Create virtual hard disk:**
-    - Size: 60 GB+ 
+- **Role Services: Active Directory Domain Services, DNS** 
 
 <h2>Lab Task 1:</h2>
 <h3>VM Setup in Windows</h3>
@@ -52,7 +38,7 @@ This lab demonstrates the process of promoting a Windows Server virtual machine 
 - **Attach Windows Server ISO to VM**
 - **Boot VM**
 - **Install:**
-    - “Windows Server with Desktop Experience”
+    - Windows Server with Desktop Experience
 - **Complete installation and login as Administrator**
 
 
