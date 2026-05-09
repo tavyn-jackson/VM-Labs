@@ -1,25 +1,35 @@
-<h2>Add Active Directory roles and features:</h2>
-<br />
-- <b>After logging into admin account, select "Manage"</b>
-<br />
-<br />
-<p align="center">
-- <b>Select "Add Roles and Features", roles and features selection window will prompt</b>
-  <img src="AddRoles.PNG" height="80%" width="80%" alt="Add Roles"/>
-</p>
-<br />
-- <b>Select "Active Directory Domain Services"</b>
-<br />
-<br />
-<p align="center">
-- <b>Finish Install, will require a reboot</b>
-<img src="InstallRoles.PNG" height="80%" width="80%" alt="Install Roles"/>
-</p>
-<br />
-- <b>Will have to login back in using administrator information</b>
-<br />
-- <b>Server Manager will open, select Tools, Active Directory will now be listed as an option</b>
+<h1>Active Directory Lab & Projects</h1>
+
 <br />
 
+<h2>Overview</h2>
+This repository contains multiple Active Directory projects focused on:
+<br />
+- <b>Domain setup and configuration</b>
+<br />
+- <b>User and group management</b>
+<br />
+- <b>DNS and DHCP Integration</b>
+<br />
+- <b>System administration labs</b>
+<br />
+- <b>Testing and troubleshooting scenarios</b>
+<br />
+<br />
+<h2>Projects</h2>
+
+Project 1: Promote Server to Domain Controller 
+<br />
+- <b>Install Active Directory Domain Services</b>
+<br />
+- <b>Promote Windows Server VM to Domain Controller</b>
+<br />
+- <b>Create new Active Directory domain</b>
+<br />
+- <b>Configure DNS integration</b>
+<br />
+- <b>Verify domain controller functionality</b>
+<br />
+[View Project](./Promote-DC/README.md)
 
 
