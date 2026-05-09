@@ -18,7 +18,7 @@ Project 1: Promote to DC / Add AD DS
 - Configure DNS integration
 - Verify domain controller functionality
 
-<p align"center">
+
 [Project 1](https://github.com/tavyn-jackson/Active-Directory/blob/main/Promote-DC/README.md)
-</p>
+
 
