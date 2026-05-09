@@ -16,7 +16,8 @@
 - <b>Choose server</b>
 <br />
 - <b>Select:</b>
-    - <b>Active Directory Domain Services</b>
+<br />
+ - <b>Active Directory Domain Services</b>
 <br />
 - <b>Install and complete wizard</b>
 <br />
