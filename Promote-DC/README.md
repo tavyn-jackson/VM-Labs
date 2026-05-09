@@ -4,7 +4,7 @@
 - **Set Static IP to the VM IP Address**
 
 <h2>Lab Task 1:</h2>
-<h3>Install Active Directory Domain Services (AD DS)</h3>
+<h4>Install Active Directory Domain Services (AD DS)</h4>
 
 - **Open Server Manager**
 - **Click Add Roles and Features**
