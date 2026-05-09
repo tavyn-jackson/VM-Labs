@@ -5,6 +5,8 @@ This lab demonstrates the process of promoting a Windows Server virtual machine 
 <br />
 
 <h2>Objective</h2>
+<br />
+
 - **Promote Windows Server VM to Domain Controller**
 - **Create a new Active Directory forest and domain**
 - **Install and configure AD DS role**
