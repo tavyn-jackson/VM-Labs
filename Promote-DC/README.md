@@ -1,7 +1,7 @@
-<h2>Prereqs:</h2>
-<br />
-
-- **Set Static IP to the VM IP Address**
+<h1>Promote Server to Domain Controller (VirtualBox Lab) </h2>
+<br /> 
+<h2>Objective:</h2> 
+This lab demonstrates the process of promoting a Windows Server virtual machine to a Domain Controller using Active Directory Domain Services (AD DS). The environment is built and tested inside VirtualBox to simulate a real enterprise Active Directory setup.
 
 <h2>Lab Task 1:</h2>
 <h3>Install Active Directory Domain Services (AD DS)</h3>
