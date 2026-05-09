@@ -22,6 +22,7 @@ This lab demonstrates the process of promoting a Windows Server virtual machine 
 
 
 <h2>Lab Task 1:</h2>
+<br />
 <h3>VM Setup in Windows</h3>
 - **Open VirtualBox**
 - **Click New**
@@ -39,6 +40,7 @@ This lab demonstrates the process of promoting a Windows Server virtual machine 
 <br />
 
 <h2>Lab Task 2:</h2>
+<br />
 <h3>Install Windows Server</h3>
 - **Attach Windows Server ISO to VM**
 - **Boot VM**
@@ -51,6 +53,7 @@ This lab demonstrates the process of promoting a Windows Server virtual machine 
 
 
 <h2>Lab Task 3:</h2>
+<br />
 <h3>Static IP Configuration </h3>
 
 Inside Windows Server:
@@ -64,6 +67,7 @@ Inside Windows Server:
 </h2>
 
 <h2>Lab Task 4:</h2>
+<br />
 <h3>Rename the Server</h3>
 - **Open System Properties on Desktop**
 - **Change computer name to**
@@ -72,6 +76,7 @@ Inside Windows Server:
 
 
 <h2>Lab Task 5:</h2>
+<br />
 <h3>Install Active Directory Domain Services (AD DS)</h3>
 
 - **Open Server Manager**
@@ -84,6 +89,7 @@ Inside Windows Server:
 - **Install and complete wizard**
 
 <h2>Lab Task 6:</h2>
+<br />
 <h3>Promote Server to Domain Controller</h3>
 
 After installation:
