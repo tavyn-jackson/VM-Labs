@@ -21,3 +21,7 @@
 <br />
 - <b>Install and complete wizard</b>
 <br />
+
+- **Open Server Manager** 
+- **Click Add Roles and Features**
+ - **Role-based installations**
