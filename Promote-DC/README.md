@@ -33,8 +33,6 @@ This lab demonstrates the process of promoting a Windows Server virtual machine 
     - Size: 60 GB+ (dynamic allocation)
 
 <h2>Lab Task 2:</h2>
-<br />
-
 <h3>Install Windows Server</h3>
 - **Attach Windows Server ISO to VM**
 - **Boot VM**
@@ -42,13 +40,8 @@ This lab demonstrates the process of promoting a Windows Server virtual machine 
     - “Windows Server with Desktop Experience”
 - **Complete installation and login as Administrator**
 
-# insert screenshot of os install 
-<br />
-
 
 <h2>Lab Task 3:</h2>
-<br />
-
 <h3>Static IP Configuration </h3>
 Inside Windows Server:
 - **Open Network Settings**
@@ -59,7 +52,6 @@ Inside Windows Server:
     - DNS: point to itself (same as the IP)
 
 <h2>Lab Task 4:</h2>
-<br />
 
 <h3>Rename the Server</h3>
 - **Open System Properties on Desktop**
@@ -81,12 +73,10 @@ Inside Windows Server:
 - **Install and complete wizard**
 
 <h2>Lab Task 6:</h2>
-<br />
 
 <h3>Promote Server to Domain Controller</h3>
 
 After installation:
-<br /> 
 - **Click Promote this server to a domain controller**
 - **Select:**
     - Add a new forest
@@ -100,8 +90,6 @@ After installation:
 VM will reboot automatically 
 
 <h2>Lab Task 7:</h2>
-<br />
-
 <h3>Verify Domain Controller Setup</h3>
 After reboot: 
 - **Log in using domain**
