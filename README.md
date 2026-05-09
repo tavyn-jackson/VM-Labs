@@ -1,7 +1,5 @@
 <h1>Active Directory Lab & Projects</h1>
 
-<br />
-
 <h2>Overview</h2>
 This repository contains multiple Active Directory projects focused on:
 - Domain setup and configuration
@@ -9,7 +7,7 @@ This repository contains multiple Active Directory projects focused on:
 - DNS and DHCP Integration
 - System administration labs
 - Testing and troubleshooting scenarios
-<br />
+
 <h2>Projects</h2>
 
 Project 1: Promote Server to Domain Controller 
