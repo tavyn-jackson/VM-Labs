@@ -2,7 +2,7 @@
 <br />
 - <b>Power on PC/Desktop</b>
 <br />
-- <b>Login into PC/Desktop using administrator account username and password</b>
+- <b>Login to PC/Desktop using administrator account username and password</b>
 <br />
 - <b>After logging into admininstrator account, select "Manage"</b>
 <br />
