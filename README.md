@@ -1,6 +1,6 @@
 <h1>Active Directory Lab & Projects</h1>
 
-<h2>Overview</h2>
+<h2>Overview</h2> 
 
 This repository contains multiple Active Directory projects focused on:
 - Domain setup and configuration
@@ -18,7 +18,7 @@ Project 1: Promote to DC / Add AD DS
 - Configure DNS integration
 - Verify domain controller functionality
 
-
-[Project 1](https://github.com/tavyn-jackson/Active-Directory/blob/main/Promote-DC/README.md)
-
+<p align="center">
+ <a href="https://github.com/tavyn-jackson/Active-Directory/blob/main/Promote-DC/README.md">Project 1</a>
+</p>
 
