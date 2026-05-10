@@ -119,4 +119,4 @@ After reboot:
     - DNS Manager
 - **Confirm**
     - Domain exists 
-    - DNS zone createdv
+    - DNS zone created
