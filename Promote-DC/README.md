@@ -17,7 +17,9 @@ This lab demonstrates the process of promoting a Windows Server virtual machine 
 - **Windows Server 2022**
 - **Role Services: Active Directory Domain Services, DNS** 
 
-<h2>VM Setup in Windows</h2>
+<h2>Lab Task 1</h2>
+
+<h3>VM Setup in Windows</h3>
 
 - **Open VirtualBox**
 - **Click New**
@@ -31,7 +33,7 @@ This lab demonstrates the process of promoting a Windows Server virtual machine 
 - **Create virtual hard disk**
     - 60 GB+ 
 
-<h2>Lab Task 2:</h2>
+<h2>Lab Task 2</h2>
 
 <h3>Install Windows Server</h3>
 
@@ -41,7 +43,7 @@ This lab demonstrates the process of promoting a Windows Server virtual machine 
     - Windows Server with Desktop Experience
 - **Complete installation and login as Administrator**
 
-<h2>Lab Task 3:</h2>
+<h2>Lab Task 3</h2>
 
 <h3>Install Windows Server</h3>
 
@@ -54,7 +56,7 @@ This lab demonstrates the process of promoting a Windows Server virtual machine 
     - DNS: point to itself (same as the IP)
 - **Complete installation and login as Administrator**
 
-<h2>Lab Task 4:</h2>
+<h2>Lab Task 4</h2>
 
 <h3>Rename the Server</h3>
 
@@ -64,7 +66,7 @@ This lab demonstrates the process of promoting a Windows Server virtual machine 
     - DC1
 - **Restart VM**
 
-<h2>Lab Task 5:</h2>
+<h2>Lab Task 5</h2>
 <h3>Install Active Directory Domain Services (AD DS)</h3>
 
 - **Open Server Manager**
@@ -76,7 +78,7 @@ This lab demonstrates the process of promoting a Windows Server virtual machine 
     - Active Directory Domain Services
 - **Install and complete wizard**
 
-<h2>Lab Task 6:</h2>
+<h2>Lab Task 6</h2>
 
 <h3>Promote Server to Domain Controller</h3>
 
