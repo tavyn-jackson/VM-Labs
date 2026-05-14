@@ -54,6 +54,8 @@
   - I ran a script that provides ping responses here -> [Ping Server Script](https://github.com/tavyn-jackson/Script-Labs/blob/main/Ping-Server/README.md)
 - If done correctly, should get a response from server
 
+<br clear="right"/>
+
 <h2>Lab Task 5:</h2>
 
 <h3>Test Domain Name Resolution</h3>
